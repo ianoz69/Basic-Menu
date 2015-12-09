@@ -1,0 +1,30 @@
+#menu3 ul {
+	list-style-type: none;
+	width: 670px;
+	margin: auto;
+	overflow: hidden;	
+}
+
+#menu3 li {
+	width: 120px;
+	height: 30px;
+	margin: 0px 5px;
+	border: 2px solid #000000;
+	border-radius: 5px;
+	float: left;	
+}
+
+#menu3 a {
+	background-color: #66FF99;
+	color: #000000;
+	text-align: center;
+	display: block;
+	width: 120px;
+	height: 30px;
+	line-height: 30px;
+	text-decoration: none;
+}
+
+#menu3 a:hover {
+	background-color: #F0F0F0;
+}

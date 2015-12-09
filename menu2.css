@@ -1,0 +1,15 @@
+#menu2 {
+	padding: 10px;
+}
+
+#menu2 a {
+	text-decoration: none;
+	color: #000000;
+	display: block;
+	width: 100px;
+	text-align: center;
+}
+
+#menu2 a:hover {
+	background-color: #F0F0F0;
+}

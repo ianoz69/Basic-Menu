@@ -1,0 +1,31 @@
+#menu4 {
+	padding: 10px;
+}
+
+#menu4 ul {
+	list-style-type: none;
+	overflow: hidden;	
+}
+
+#menu4 li {
+	width: 120px;
+	height: 30px;
+	margin: 5px;
+	border: 2px solid #000000;
+	border-radius: 5px;	
+}
+
+#menu4 a {
+	background-color: #66FF99;
+	color: #000000;
+	text-align: center;
+	display: block;
+	width: 120px;
+	height: 30px;
+	line-height: 30px;
+	text-decoration: none;
+}
+
+#menu4 a:hover {
+	background-color: #F0F0F0;
+}
